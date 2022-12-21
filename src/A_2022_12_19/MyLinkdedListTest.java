@@ -7,6 +7,6 @@ public class MyLinkdedListTest {
 		list.addElement("B");
 		list.addElement("C");
 
-		list.printALL();
+		list.printAll();
 	}
 }

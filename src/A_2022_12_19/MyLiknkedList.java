@@ -119,7 +119,7 @@ public class MyLiknkedList {
 		return count;
 	}
 
-	public void printALL() {
+	public void printAll() {
 		if(count == 0) {
 			System.out.println("출력할 내용 없음");
 			return;
